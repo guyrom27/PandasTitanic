@@ -1,8 +1,8 @@
 # Titanic
 Analyzing the Titanic data from kaggle with python sklearn.
 I started with Random Forests, and performed some parameter tuning, i.e. amount of trees
-![rf_roc]
-(https://github.com/guyrom27/PandasTitanic/blob/master/rf_roc_and_acc.png)
+
+![rf_roc](https://github.com/guyrom27/PandasTitanic/blob/master/rf_roc_and_acc.png)
 
 I then analyzed the errors
 ![RF_age](https://github.com/guyrom27/PandasTitanic/blob/master/RF_age_errors.png)
